@@ -1,0 +1,10 @@
+{
+    "EMAIL" : "fohepuco@cartelera.org",
+    "OWNER" : "228558826511663104",
+    "PASSWORD" : "mvfasd98hmmhvf9ds",
+    "PREFIXES" : [],
+    "default" : {
+        "ADMIN_ROLE" : "Transistor",
+        "MOD_ROLE" : "Process"
+    }
+}
